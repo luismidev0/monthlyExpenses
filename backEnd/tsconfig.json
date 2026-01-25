@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2016",          /* O es6 */
+    "module": "commonjs",        /* Node usa commonjs por defecto */
+    "rootDir": "./src",          /* Dónde estará tu código TS */
+    "outDir": "./dist",          /* Dónde se guardará el código compilado JS */
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
