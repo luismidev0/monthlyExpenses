@@ -6,5 +6,6 @@
     "outDir": "./dist",          /* Dónde se guardará el código compilado JS */
     "strict": true,
     "esModuleInterop": true
-  }
+  },
+  "exclude": ["prisma", "prisma.config.ts"]
 }
